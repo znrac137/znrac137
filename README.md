@@ -9,7 +9,7 @@ I’m focused on offensive security, digital forensics, cloud security, secure c
 - 🌱 Learning offensive security, forensics, Kubernetes, Docker, and secure development
 - 🧠 Interested in ethical hacking, threat hunting, digital evidence, automation, and AI in cybersecurity
 - 🛡️ Building my skills through labs, university projects, and real-world technical work
-- 📫 Reach me on LinkedIn: YOUR_LINKEDIN_URL
+- 📫 Reach me on LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sunera-ranasooriya-b2a2862a0/)
 
 ## Socials
 [LinkedIn] https://www.linkedin.com/in/sunera-ranasooriya-b2a2862a0/ 
